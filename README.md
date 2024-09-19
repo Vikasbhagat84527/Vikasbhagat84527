@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently working on a Next.js app called carePulse that lets you book appointments with doctors. It is a Full-Stack app that has admin dashborad also where you can see and verify all appointments. It will be a production ready app with real life applications.
-I recently built a document editor app called Live Docs using tech stack Next.js, typescript, tailwindCSS, lexical editor, clerk, Liveblocks, Sentry etc. You can invite other mates to work collaboratively with live cursors, comments, tags, mentions  and many amazing features.
+I am a passionate MERN stack developer with a solid grasp of modern technologies like Next.js, TypeScript, and SQL. My expertise extends to data structures and algorithms, enabling me to build efficient and scalable applications. I have developed several impactful projects, including a document editor with real-time collaboration, a doctor's appointment app with an admin dashboard and authentication, and a web banking app that prioritizes security and user experience. I thrive on solving complex problems and am always eager to learn and implement the latest tools and techniques in web development.
 <br>
 
 
