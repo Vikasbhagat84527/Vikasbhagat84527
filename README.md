@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate MERN stack developer with a solid grasp of modern technologies like Next.js, TypeScript, and SQL. My expertise extends to data structures and algorithms, enabling me to build efficient and scalable applications. I have developed several impactful projects, including a document editor with real-time collaboration, a doctor's appointment app with an admin dashboard and authentication, and a web banking app that prioritizes security and user experience. I thrive on solving complex problems and am always eager to learn and implement the latest tools and techniques in web development.
+I am a passionate MERN stack developer with a solid grasp of modern technologies like Next.js, TypeScript, and SQL. My expertise extends to data structures and algorithms, enabling me to build efficient and scalable applications. I have developed several impactful and real world usecase projects, including a document editor with real-time collaboration and Live cursors, a doctor's appointment app with an admin dashboard and authentication, and a web banking app that can transfer money across bank accounts, displays all transactions and prioritizes security and user experience. I thrive on solving complex problems and am always eager to learn and implement the latest tools and techniques in web development.
 <br>
 
 
