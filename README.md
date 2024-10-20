@@ -12,7 +12,9 @@ I am a passionate MERN stack developer with a solid grasp of modern technologies
 ![](https://github-readme-stats.vercel.app/api?username=vikasbhagat84527&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikasbhagat84527&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasbhagat84527&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Vikasbhagat84527&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikasbhagat84527&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
